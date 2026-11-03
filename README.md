@@ -88,3 +88,7 @@ composer install && composer test && composer lint
 
 The suite runs on SQLite, which does not report a varchar's length, so the `max:` rule taken from it
 is only exercised on MariaDB/MySQL.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
